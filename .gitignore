@@ -1,0 +1,5 @@
+tasks_management/node_modules/
+tasks_management/package-lock.json
+
+server/node_modules/
+server/package-lock.json
